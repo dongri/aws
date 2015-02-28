@@ -8,7 +8,7 @@ import (
 )
 
 // Production CNAME (ex: ***.elasticbeanstalk.com)
-const CNAME = "***.elasticbeanstalk.com"
+const CNAME = ""
 
 func main() {
 	if CNAME == "" {
